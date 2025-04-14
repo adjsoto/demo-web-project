@@ -4,6 +4,6 @@
     <title>Hello World</title>
   </head>
   <body>
-    <h1>Tarea periódica de despliegue de una aplicación Web Java en Tomcat</h1>
+    <h1>Creación de PIPELINE de despliegue de una aplicación Web Java en Tomcat cuando hay modificación de código</h1>
   </body>
 </html>
